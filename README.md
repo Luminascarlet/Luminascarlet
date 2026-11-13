@@ -1,8 +1,6 @@
 <div align="center">
-  <h2>Hi, my name is <span style="color:#ffffff; font-weight:700;">Lumina</span>, nice to meet you!</h2>
+  <h2>Hi, my name is <span style="color:#ffffff; font-weight:700;">Lumina</span>, nice to meet you! 👋💖</h2>
 </div>
-
----
 
 ## Introduction
 
