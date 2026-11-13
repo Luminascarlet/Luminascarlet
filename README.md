@@ -42,6 +42,7 @@ Hello! I'm Lumina (you can call me Lumi), a 22-year-old casual nerdy guy who enj
 ## Connect with me!
 
 <p align="center">
+  <a href="https://discord.com/users/529502200007753732"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.x.com/lumiscarlet"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/scarletshuttle/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.roblox.com/users/446430623/profile"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" /></a>
