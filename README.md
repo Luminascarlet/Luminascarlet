@@ -8,31 +8,26 @@
 
 Hello! I'm Lumina (you can call me Lumi), a 22-year-old casual nerdy guy who enjoys gaming, listening to music, tinkering with tech, and hangout with friends.
 
-"Harikitte Ikou!" - Kitasan Black
-
 ---
 
 ## Software & Tools I Use
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
+  <img src="https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=kdenlive&logoColor=white" alt="Kdenlive" />
+  <img src="https://img.shields.io/badge/FL%20Studio-000000?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio" />
 </div>
 
-- Web development tools: VS Code, Git, GitHub, npm, Vite, React, Next.js
-- Design and editing tools: Adobe Photoshop CS6, Blender, Roblox Studio
-  - Mostly appear on: Discord, Roblox
-- Other software: MySQL
-
-
+- Web development tools: VS Code, Google Antigravity, GitHub, XAMPP, Figma
+- Design and editing tools: Adobe Photoshop, Blender, Roblox Studio, Kdenlive
+- Music production tools: FL Studio
 
 ---
 
@@ -41,22 +36,23 @@ Hello! I'm Lumina (you can call me Lumi), a 22-year-old casual nerdy guy who enj
 - JavaScript
 - HTML / CSS
 - Python
-- C#va (ona bit)
-- C++
-- SQL
-- PHP (not yet but probably soon)
- (MySQL) and Microsoft SqQL Server
+- C++ (not yet but probably soon)
+- SQL (MySQL/MariaDB and Microsoft SQL Server)
+- PHP
 ---
 
 ## Connect with me!
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.com/users/529502200007753732"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://github.com/Luminascarlet"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /><
-</div>
+<p align="center">
+  <a href="https://www.x.com/lumiscarlet"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/scarletshuttle/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.roblox.com/users/446430623/profile"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" /></a>
+  <a href="https://steamcommunity.com/profiles/76561198869361387/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+  <a href="https://soundcloud.com/lumiscarlet/"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" /></a>
+  <a href="https://www.youtube.com/@Lumiscarlet/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.cosmos.so/luminascarlet/"><img src="https://img.shields.io/badge/Cosmos-333333?style=for-the-badge&logoColor=white" alt="Cosmos" /></a>
+</p>
+
 
 <!--
 **Luminascarlet/Luminascarlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
